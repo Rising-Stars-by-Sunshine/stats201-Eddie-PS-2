@@ -3,7 +3,7 @@
 - **Author**: Eddie Lin, Computation and Design major Computer Science track, 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**:  Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: Thanks to Prof. Luyao for insightful comments in improving the research question and the inspiring lectures, another thanks to my classmates for the interesting discussions in class.
+- **Acknowledgments**: Thanks to Prof. Luyao for insightful comments in improving the research question and the inspiring lectures, special thanks to my classmates for the interesting discussions in class.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
@@ -22,9 +22,23 @@
 
 ## Data
 - Data Source:
-- Queried Data
-- Processed Data
-- ...
+- [co_mm_mlo]((https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt)
+### Meta Data Information
+| Data Files| Data Content | Data Type|
+| :---         |     :---     | :---: |
+|co2_mm_mlo.csv| data of monthly global carbon emissions | Queried |
+|Cited.csv | literatures collected for the explanation task of the problem set | Queried |
+|Regression_Test.csv| Test data for regression task| Processed |
+|Regression_Train.csv| Train data for regression task| Processed |
+
+### Data Dictionary 
+| variable name | description | frequency     |  unit.    | range| type|
+| :---         |     :---     |   :---: |  :---:   | :---: |  :---: |
+| Item type | Represents the type of the collected literature | \ | \ | \ |Object|
+| Authors | Contains the authors of the collected lieratures | \ | \ | \ |Object|
+| Titles | Contains the titles of the collected lieratures | \ | \ | \ |Object|
+| Abstract | Contains the abstracts of the collected lieratures | \ | \ | \ |Object|
+
 
 
 ## Code
