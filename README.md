@@ -13,12 +13,11 @@
   - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
-- data
-- code
-- spotlight
-- more about the author
-- references
-
+| Contents|
+| :---         |
+| [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/tree/main/data) |
+| [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/tree/main/code) |
+| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/tree/main/spotlight) |
 
 
 ## Data
