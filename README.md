@@ -21,8 +21,6 @@
 
 
 ## Data
-- Data Source:
-- [co_mm_mlo]((https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt)
 ### Meta Data Information
 | Data Files| Data Content | Data Type|
 | :---         |     :---     | :---: |
@@ -57,13 +55,11 @@
 | Problem_Set2_Explanation_Eddie.ipynb | Code that carries out the explanation task of Problem Set 2 |
 
 ## Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
-
+### Explanation
+ ![wordcloud](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/spotlight/figures/wordcloud.png)
+### Prediction
+ ![linear Regression](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/spotlight/figures/linear%20regression.png)
+ ![random forest regression](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/spotlight/figures/random%20forest.png)
 ## More about the Author
 - headshot
 - self-introduction
