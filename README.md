@@ -1,4 +1,4 @@
-# Title Prediction of Monthly Carbon Emissions
+# Prediction of Monthly Carbon Emissions
 ## Project information
 - **Author**: Eddie Lin, Computation and Design major Computer Science track, 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
