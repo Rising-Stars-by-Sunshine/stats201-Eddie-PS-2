@@ -1,10 +1,9 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Title Prediction of Monthly Carbon Emissions
 ## Project information
 - **Author**: Eddie Lin, Computation and Design major Computer Science track, 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**:  Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: Thanks to Prof. Luyao for insightful comments in improving the research question and the inspiring lectures, another thanks to my classmates for the interesting discussions in class.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
