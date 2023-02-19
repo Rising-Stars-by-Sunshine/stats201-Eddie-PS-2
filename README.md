@@ -8,13 +8,8 @@
 
 **Explanation**: The amount of research in the field of Non-Fungible Tokens(NFT) is large enough for humans to be not able to understand what are the most focused aspects in research literatures in the NFT field. With the help of explanation machine learning algorithms, it is easy to find out the most discussed topics in NFT research. The goal of this research is to answer the question: What phrases are the most mentioned among NFT research papers? Seventeen pieces of literature related to NFTs were collected and had their titles and abstracts inspected. The inspection was carried out by Explanation machine learning algorithms, natural language processing was used to process the data, wordclouds and bigrams were created as results. The results shows highly frequent phrases used in the papers' titles and abstracts. This project gives insights to people both inside and outside the NFT field of what current research on NFTs are focused on, and potentially inspires researchers on which topics in the NFT field is more worth researching on.
 
-**Prediction**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+**Prediction**: Carbon emissions is the primary factor that affects climate change, thus governments often use carbon/greenhouse gas emissions as a metric in making decisions around carbon-emitting human activities such as manufacturing and fuel-burning. It would be helpful to decisive government departments to know the possible carbon emissions in the future months so that they could make better responses to meet the carbon emission standards. This research wants to answer the question: How well can prediction algorithms in machine learning predict future month's carbon emission using the past month's carbon emission? The data uses monthly average global carbon emissions that was collected monthly from March 1958 to February 2023. Methods used in this study include Linear regression and random forest regressor as models in regressing, and the R-squared scorewas used as the metric to interpret the accuracy of each model. The results show that the linear regression model was accurate in predicting the future month's carbon emissions while the random forest regressor did poorly in predicting. I anticipate this study would inspire more studies to apply other prediction models to this field.
+
 
 ## Table of Contents
 | File | Content |
