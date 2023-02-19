@@ -69,11 +69,10 @@
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- [Global Monitoring Laboratory-Carbon Cycle Greenhouse Gases](https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt)
 ### Code Source
-- Code Source Title and URL
-### Articles
-- Article Source Title and URL
+- [stats201-tutorial-prediction](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
+- [sunshineluyao/design-principle-blockchain](https://github.com/sunshineluyao/design-principle-blockchain/tree/main/code)
 ### Literature
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
