@@ -48,10 +48,13 @@
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- [Explanation Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/code/Problem_Set2_Explanation_Eddie.ipynb)
+- [Prediction Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/code/Problem_Set2_Prediction_Eddie.ipynb)
+### Table of Code
+| File| Description |
+| :---         |     :---:     |
+| Problem_Set2_Prediction_Eddie.ipynb  | Code that carries out the prediction task of Problem Set 2 |
+| Problem_Set2_Explanation_Eddie.ipynb | Code that carries out the explanation task of Problem Set 2 |
 
 ## Spotlight
 - Posters
