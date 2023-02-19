@@ -58,7 +58,12 @@
 ### Explanation
  ![wordcloud](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/spotlight/figures/wordcloud.png)
 ### Prediction
+ **Linear Regression**
+ 
  ![linear Regression](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/spotlight/figures/linear%20regression.png)
+ 
+ **Random Forest Regressor**
+ 
  ![random forest regression](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/spotlight/figures/random%20forest.png)
 ## More about the Author
 - headshot
