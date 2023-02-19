@@ -32,12 +32,18 @@
 |Regression_Train.csv| Train data for regression task| Processed |
 
 ### Data Dictionary 
-| variable name | description | frequency     |  unit.    | range| type|
-| :---         |     :---     |   :---: |  :---:   | :---: |  :---: |
-| Item type | Represents the type of the collected literature | \ | \ | \ |Object|
-| Authors | Contains the authors of the collected lieratures | \ | \ | \ |Object|
-| Titles | Contains the titles of the collected lieratures | \ | \ | \ |Object|
-| Abstract | Contains the abstracts of the collected lieratures | \ | \ | \ |Object|
+| File of Data| variable name | description | frequency     |  unit. |    type|
+|:---| :---         |     :---     |   :---: |  :---:   | :---: |  
+|   co2_mm_mlo.csv    |      average     |    monthly average of global carbon dioxide emissions  |   monthly    |   parts per million    |    float64   |
+|Cited.csv | title| title of each collected literature | \ | \ | String |
+|Cited.csv | abstract| abstract of each collected literature | \ | \ | String |
+|Regression_Test.csv| average|  monthly average of global carbon dioxide emissions | monthly | parts per million | float64|
+|Regression_Test.csv| average_past|  average of global carbon dioxide emissions of the past month | monthly | parts per million | float64|
+|Regression_Train.csv| average|  monthly average of global carbon dioxide emissions | monthly | parts per million | float64|
+|Regression_Train.csv| average_past|  average of global carbon dioxide emissions of the past month | monthly | parts per million | float64|
+
+
+
 
 
 
